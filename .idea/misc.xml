@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildAttributionWarningsFilter">
+    <option name="noGCSettingWarning" value="true" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable-anydpi/test_ai.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable-anydpi/test_player.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/buttonstyle.xml" value="0.2547945205479452" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/dialogbg.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/difficultybuttonstyle.xml" value="0.10902777777777778" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/exitbuttonbg.xml" value="0.2547945205479452" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/gridlines.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11388888888888889" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/osym.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/startbuttonbg.xml" value="0.2547945205479452" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/symx.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/test.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/winningline.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/drawable/xsym.xml" value="0.18175895765472314" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/ai_select_view.xml" value="0.2439814814814815" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/alertlayout.xml" value="0.17335526315789473" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/fragment_game_board.xml" value="0.1716612377850163" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/fragment_gamemode.xml" value="0.2439814814814815" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/fragment_home.xml" value="0.16799999999999998" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/fragment_pvai.xml" value="0.16805555555555557" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/layout/fragment_pvp.xml" value="0.1716612377850163" />
+        <entry key="..\:/Android_Projects/TicTacToe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
